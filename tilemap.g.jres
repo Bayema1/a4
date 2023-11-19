@@ -1,0 +1,45 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "niveau1": {
+        "id": "niveau1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBkMGUwYzBmMTAxMTEyMTMxNDE1MGQwZTBjMGYxMDExMTYwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MTYxNjA4MTcwMzAzMDMwMzAzMDMwMzAzMDMwMzAxMDgxNjE2MDgwNjA3MDcwNzA3MDcwNzA3MDcwNzA3MDQwODE2MTYwODA2MDcwNzA3MDcwNzA3MDcwNzA3MDcwNDA4MTYxNjA4MDYwNzA3MDcwNzA3MDcwNzA3MDcwNzA0MDgxNjE2MDgwNjA3MDcwNzBiMDcwNzA3MDcwNzA3MDQwODE2MTYwODA2MDcwNzA3MDcwOTA5MDcwNzA3MDcwNDA4MTYxNjA4MDYwNzA3MDcwNzA5MDkwNzA3MDcwNzA0MDgxNjE2MDgwNjA3MDcwNzA3MDcwNzBhMDcwNzA3MDQwODE2MTYwODA2MDcwNzA3MDcwNzA3MDcwNzA3MDcwNDA4MTYxNjA4MDYwNzA3MDcwNzA3MDcwNzA3MDcwNzA0MDgxNjE2MDgwNjA3MDcwNzA3MDcwNzA3MDcwNzA3MDQwODE2MTYwODAyMDUwNTA1MDUwNTA1MDUwNTA1MDUxODA4MTYxNjA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDgxNjE2MTYxNjE2MTYxNjE2MTYxNjE2MTYxNjE2MTYxNjE2MDAwMDAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMDIyMDAwMDAwMDAwMDAwMDAyMjAwMDAwMDAwMDAwMDAwMjIwMDAwMDAwMDAwMDAwMDIyMDAwMDAwMDAwMDAwMDAyMjAwMDAwMDAwMDAwMDAwMjIwMDAwMDAwMDAwMDAwMDIyMDAwMDAwMDAwMDAwMDAyMjAwMDAwMDAwMDAwMDAwMjIwMDAwMDAwMDAwMDAwMDIyMDAwMDAwMDAwMDAwMDAyMjAwMDAwMDAwMDAwMDAwMjIwMDAwMDAwMDAwMDAwMDIyMDIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tileDarkGrass2",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.dungeon.collectibleBlueCrystal",
+            "sprites.dungeon.collectibleRedCrystal",
+            "sprites.builtin.crowd2",
+            "sprites.builtin.crowd0",
+            "sprites.builtin.crowd1",
+            "sprites.builtin.crowd3",
+            "sprites.builtin.crowd4",
+            "sprites.builtin.crowd5",
+            "sprites.builtin.crowd6",
+            "sprites.builtin.crowd7",
+            "sprites.builtin.crowd8",
+            "sprites.builtin.crowd9",
+            "sprites.builtin.forestTiles1",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath9"
+        ],
+        "displayName": "niveau1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
